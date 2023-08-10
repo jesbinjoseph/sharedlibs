@@ -1,0 +1,10 @@
+class Student {
+   int StudentID;
+   String StudentName;
+
+   String hey(String name) {
+    StudentName=name
+    println(this.StudentName)
+    return this.StudentName
+   } 
+}
