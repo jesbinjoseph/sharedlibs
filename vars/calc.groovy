@@ -1,4 +1,4 @@
-import Student.Student.*
+package Student.Student;
 
 def add(x,y) {
     def config = new Student.hey('jesbin')
