@@ -6,6 +6,7 @@ def mul(x,y) {
 
 
 def add(x,y) {
-    hello('jesbin')
+    hello("ann")
+    echo "${x+y}"
 }
 
