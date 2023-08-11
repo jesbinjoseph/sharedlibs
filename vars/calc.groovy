@@ -1,8 +1,8 @@
-package Student.Student;
+evaluate(new File("hello.groovy"));
 
 def add(x,y) {
-    def config = new Student.hey('jesbin')
-    echo ${config.StudentName}
+    def config = new hello('jesbin')
+    echo ${config}
 }
 
 def mul(x,y) {
