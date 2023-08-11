@@ -1,7 +1,7 @@
 evaluate(new File("hello.groovy"));
 
 def mul(x,y) {
-    echo ${x*y}
+    echo "${x*y}"
 }
 
 
