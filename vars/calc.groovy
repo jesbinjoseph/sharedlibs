@@ -1,8 +1,7 @@
 evaluate(new File("hello.groovy"));
 
 def add(x,y) {
-    def config = new hello('jesbin')
-    echo ${config}
+    hello('jesbin')
 }
 
 def mul(x,y) {
